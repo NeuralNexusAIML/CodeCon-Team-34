@@ -1,6 +1,6 @@
 # CoinForCause
 
-CoinForCause is a charitable website aimed at promoting social causes and raising funds through cryptocurrency donations. This repository contains the HTML, CSS, and JavaScript code for the CoinForCause website.
+CoinForCause is a charitable website aimed at promoting social causes and raising funds and donations. This repository contains the HTML, CSS, and JavaScript code for the CoinForCause website.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ CoinForCause is a charitable website aimed at promoting social causes and raisin
 
 ## About
 
-CoinForCause is a platform that connects donors with various charitable causes and enables them to make cryptocurrency donations. Our mission is to leverage the power of blockchain technology and cryptocurrencies to create a positive impact in society.
+CoinForCause is a platform that connects donors with various charitable causes and enables them to make donations. 
 
 ## Features
 
